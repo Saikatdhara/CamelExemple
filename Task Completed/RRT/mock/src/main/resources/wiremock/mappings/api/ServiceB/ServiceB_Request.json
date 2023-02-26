@@ -1,0 +1,14 @@
+{
+  "request": {
+    "method": "POST",
+    "urlPattern": "/api/service/b?.*"
+  },
+  "response": {
+    "status": 200,
+    "headers":
+    {
+      "Content-Type" : "application/json"
+    },
+    "bodyFileName": "api/ServiceB/ServiceB_Response.json"
+  }
+}

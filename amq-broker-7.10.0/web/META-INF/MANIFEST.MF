@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Created-By: Maven Jar Plugin 3.2.0
+Build-Jdk-Spec: 11
+Specification-Title: ActiveMQ Artemis Web
+Specification-Version: 2.21
+Specification-Vendor: The Apache Software Foundation
+Implementation-Title: ActiveMQ Artemis Web
+Implementation-Version: 2.21.0.redhat-00025
+Implementation-Vendor: The Apache Software Foundation
+Implementation-URL: https://activemq.apache.org/components/artemis/artem
+ is-website/
+Java-Vendor: Red Hat, Inc.
+Java-Version: 11.0.9
+Os-Arch: amd64
+Os-Name: Linux
+Os-Version: 4.18.0-305.34.2.el8_4.x86_64
+Scm-Connection: scm:git:https://gitbox.apache.org/repos/asf/activemq-art
+ emis.git/artemis-website
+Scm-Revision: 8e74b38eb03c6c0a717456fd3ddc4cb0a1b62319
+Scm-Url: https://github.com/apache/activemq-artemis/artemis-website
+
